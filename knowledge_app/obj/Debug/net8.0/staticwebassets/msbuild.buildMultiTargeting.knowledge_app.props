@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\knowledge_app.props" />
+</Project>
