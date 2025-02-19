@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Darisha\\Documents\\\u0412\u0423\u0417\\\u043F\u0434\\app\\KnowledgeApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9DE9619-887F-43AD-A92D-44BF4E42CCC1}|KnowledgeApp\\KnowledgeApp.csproj|c:\\users\\darisha\\documents\\\u0432\u0443\u0437\\\u043F\u0434\\app\\knowledgeapp\\knowledgeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9DE9619-887F-43AD-A92D-44BF4E42CCC1}|KnowledgeApp\\KnowledgeApp.csproj|solutionrelative:knowledgeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9DE9619-887F-43AD-A92D-44BF4E42CCC1}|KnowledgeApp\\KnowledgeApp.API.csproj|c:\\users\\darisha\\documents\\\u0432\u0443\u0437\\\u043F\u0434\\app\\knowledgeapp\\knowledgeapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DE9619-887F-43AD-A92D-44BF4E42CCC1}|KnowledgeApp\\KnowledgeApp.API.csproj|solutionrelative:knowledgeapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DE9619-887F-43AD-A92D-44BF4E42CCC1}|KnowledgeApp\\KnowledgeApp.API.csproj|c:\\users\\darisha\\documents\\\u0432\u0443\u0437\\\u043F\u0434\\app\\knowledgeapp\\knowledgeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DE9619-887F-43AD-A92D-44BF4E42CCC1}|KnowledgeApp\\KnowledgeApp.API.csproj|solutionrelative:knowledgeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Darisha\\Documents\\\u0412\u0423\u0417\\\u043F\u0434\\app\\KnowledgeApp\\KnowledgeApp\\Program.cs",
-              "RelativeDocumentMoniker": "KnowledgeApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Darisha\\Documents\\\u0412\u0423\u0417\\\u043F\u0434\\app\\KnowledgeApp\\KnowledgeApp\\Program.cs",
-              "RelativeToolTip": "KnowledgeApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T11:29:20.077Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -44,6 +35,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Darisha\\Documents\\\u0412\u0423\u0417\\\u043F\u0434\\app\\KnowledgeApp\\KnowledgeApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KnowledgeApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Darisha\\Documents\\\u0412\u0423\u0417\\\u043F\u0434\\app\\KnowledgeApp\\KnowledgeApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KnowledgeApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:30:16.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darisha\\Documents\\\u0412\u0423\u0417\\\u043F\u0434\\app\\KnowledgeApp\\KnowledgeApp\\Program.cs",
+              "RelativeDocumentMoniker": "KnowledgeApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Darisha\\Documents\\\u0412\u0423\u0417\\\u043F\u0434\\app\\KnowledgeApp\\KnowledgeApp\\Program.cs",
+              "RelativeToolTip": "KnowledgeApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:29:20.077Z",
+              "EditorCaption": ""
             }
           ]
         },

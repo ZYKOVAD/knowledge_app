@@ -1,12 +1,12 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace KnowledgeApp.Controllers
+namespace KnowledgeApp.API.Controllers
 {
     [ApiController]
     [Route("[controller]/[action]")]
     public class HomeController : ControllerBase
     {
-        public HomeController(){}
+        public HomeController() { }
 
         [HttpGet]
         public IResult Get()

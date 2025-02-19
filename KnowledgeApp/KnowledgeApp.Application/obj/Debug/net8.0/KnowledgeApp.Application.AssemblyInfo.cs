@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KnowledgeApp.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02dba9524733b5b178e388fa4cc9be4a2f0ce789")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19c20dabd134ebb9e5f3235117fe075bc9c5e406")]
 [assembly: System.Reflection.AssemblyProductAttribute("KnowledgeApp.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KnowledgeApp.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
