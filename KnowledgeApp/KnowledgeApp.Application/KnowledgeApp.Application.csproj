@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Services\" />
+    <ProjectReference Include="..\KnowledgeApp.DataAccess\KnowledgeApp.DataAccess.csproj" />
   </ItemGroup>
 
 </Project>
